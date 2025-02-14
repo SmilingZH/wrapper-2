@@ -6,5 +6,5 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 
 A wrapper
 
-Modify based on this
+Modify based on this,Add THREE
 Author：https://codepen.io/HighFlyer/pen/GRLZYKw
